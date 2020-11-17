@@ -1,4 +1,4 @@
-baseurl      = "https://marcostefanucci.github.io"
+baseurl      = "https://MarcoStefanucci.github.io"
 title        = "My Blog"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
